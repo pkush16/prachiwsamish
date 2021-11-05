@@ -618,13 +618,7 @@ body {
   .picturesList {
     width: 60%;
   }
-  .familyNames {
-    width: 70%;
-    margin-top: 32px!important;
-    margin: auto;
-    font-weight: bold!important;
-    font-size:32px!important;
-  }
+  
   .stickToPageBottom {
     text-align: center;
     justify-content: center;
@@ -734,6 +728,14 @@ body {
   margin-bottom: 15px;
   margin-top: 12px;
 }
+
+.familyNames {
+    width: 70%;
+    margin-top: 32px!important;
+    margin: auto;
+    font-weight: bold!important;
+    font-size:32px!important;
+  }
 
 #time {
   width: auto;
